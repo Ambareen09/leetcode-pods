@@ -1,2 +1,2 @@
 # leetcode-pods (Problem of the day) solved solutions 
-Collection of LeetCode questions to ace the coding interview
+I solve leetcode daily problems and have integrated an chrome extension to automatically upload codes here!
